@@ -152,7 +152,7 @@ export default {
   flex: 0;
 }
 #call {
-  width: 100%;
+  flex: 1;
   margin-top: 24px;
 }
 .start-call-container {
